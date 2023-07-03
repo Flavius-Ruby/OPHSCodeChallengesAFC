@@ -1,0 +1,17 @@
+#Challenge01
+
+age=int(input("What is your age?"))
+print("Your age is:", age)
+
+#Challenge02
+
+num1=int(input("Enter a number"))
+num2=int(input("Enter another number"))
+print((num1+num2)/2)
+
+#Challenges03
+
+num1=int(input("Enter the value of the length"))
+num2=int(input("Enter the value of the width"))
+num3=num1*num2
+print(num3)
